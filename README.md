@@ -1,4 +1,4 @@
-# Project 1 - Monash Data Analytics Bootcamp
+# COVID 19 and AIR QUALITY CHANGE - DATA ANALYSIS PROJECT
 ---
 
 ## Background
@@ -73,7 +73,7 @@ The units of the air pollutants are not explicitly stated inside the air quality
 
 5. The study is restricted to 88 countries that are in both the air quality data and Covid-19 data up until 1 July 2020.
 
-## TODO:
+## TO DO:
 
 1. With more resources, we would investigate further any potential outliers in the data.
 
